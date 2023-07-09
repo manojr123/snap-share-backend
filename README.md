@@ -11,8 +11,9 @@
 ## Node Backend Server for rendering the HTML with meta data 
  -   This node server serves as the Snap Share Backend for rendering the
      html with meta data and the random snap URL 
+ -   Backend server hosted @https://snapshare-backend-node.onrender.com
  -   The React frontend code can be found in github@https://github.com/manojr123/snap-share-app
-
+ 
 **Getting started :**
   - Fork the project
   - Clone the forked repository in your local system
