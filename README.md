@@ -5,8 +5,13 @@
    - Include a share button under the image that allows users to share the current image on Facebook, Twitter, and WhatsApp. 
    - The image displayed on the page should be visible as a preview when the URL is shared on these platforms.
 
-
+ 
 ##
+
+## Node Backend Server for rendering the HTML with meta data 
+ -   This node server serves as the Snap Share Backend for rendering the
+     html with meta data and the random snap URL 
+
 
 **Getting started :**
   - Fork the project
