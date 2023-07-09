@@ -11,7 +11,7 @@
 ## Node Backend Server for rendering the HTML with meta data 
  -   This node server serves as the Snap Share Backend for rendering the
      html with meta data and the random snap URL 
-
+ -   The React frontend code can be found in github@https://github.com/manojr123/snap-share-app
 
 **Getting started :**
   - Fork the project
@@ -23,4 +23,4 @@
   - Run project
       - npm start
 
-  The project will be running on port 8020 (can be customized in the .environment file).
+  The project will be running on port 8080.
